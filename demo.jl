@@ -4,3 +4,5 @@ my_range = 1:7
 my_string = "hello"
 my_character = 'o'
 my_boolean = true
+
+my_vector = [1,3,5]
